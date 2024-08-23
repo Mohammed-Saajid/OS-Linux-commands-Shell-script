@@ -4,4 +4,3 @@
 1003 | Joe |  7000 | Developer
 ^d
 ```
-cut -cl-3 file11
